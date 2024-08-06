@@ -1,0 +1,15 @@
+{
+  "name": "decoratorstypescript",
+  "version": "1.0.0",
+  "description": "course of advanced typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
